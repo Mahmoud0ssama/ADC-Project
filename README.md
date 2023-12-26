@@ -10,7 +10,7 @@
 
 ## Part 2: Communication System Simulation
 
-### Binary Polar Non-Return-to-Zero (PNRZ) Encoding:
+### Operations:
 - Plots the polar NRZ binary signal.
 - Introduces additive white Gaussian noise (AWGN) to the encoded signal at different signal-to-noise ratios (SNR).
 - Plots the constellation diagram after adding noise for various SNR values.
