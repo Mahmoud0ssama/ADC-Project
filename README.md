@@ -1,4 +1,4 @@
-# Analog & digital communication -Project
+# Analog & digital communication Project
 
 ## Part 1: Signal Processing and Constellation Diagrams
 
